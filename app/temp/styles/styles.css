@@ -1358,3 +1358,13 @@ a {
       background-color: transparent
   }
   }
+
+.reveal-item {
+    opacity: 0;
+    -webkit-transition: opacity 1.5s ease-out;
+    transition: opacity 1.5s ease-out;
+}
+
+.reveal-item--is-vizible {
+        opacity: 1;
+    }
