@@ -1367,8 +1367,6 @@ a {
             transform: scale(1.15);
 }
 
-/* test */
-
 .reveal-item--is-visible {
         opacity: 1;
         -webkit-transform: scale(1);
